@@ -1,4 +1,4 @@
-![Spring Labs](/Images/spring-labs-logo.png "This is a Spring Labs logo")
+# ![Spring Labs](/Images/spring-labs-logo.png "This is a Spring Labs logo")
 # Fintech Case Study: Spring Labs
 ### *Centralising data through collaboration in a decentralised way*
 
@@ -20,11 +20,13 @@ The 2017 cyber attack on credit reporting agency Equifax compromised the records
 
 ## The Founders
 
-| | |
-| - | :-: |
-| ![Adam Jiwan](/Images/adam-jiwan.png "Image of Adam Jiwan")| Adam Jiwan (Executive Chairman & Founder) |
-| ![Anna Fridman](/Images/anna-fridman.png "Image of Anna Fridman")| Anna Fridman (Founder)
-| ![John Sun](/Images/john-sun.png "Image of John Sun") | John Sun (CEO & Founder)
+
+### Adam Jiwan, Executive Chairman & Founder ![Adam Jiwan](/Images/adam-jiwan.jpeg "Image of Adam Jiwan")
+
+### Anna Fridman, Founder ![Anna Fridman](/Images/anna-fridman.jpeg "Image of Anna Fridman")
+
+### John Sun, CEO & Founder ![John Sun](/Images/john-sun.jpeg "Image of John Sun")
+
 
 ## Competitors
 ### Equifax, Credit reporting agency
