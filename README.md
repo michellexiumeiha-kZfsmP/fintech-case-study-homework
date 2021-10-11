@@ -99,6 +99,10 @@ Advanced cryptography via smart contracts create tokenised data to allow informa
 
 Finally, products are available through REST APIs.
 
+**Illustrative process flow** *(Courtesy of [Spring Labs](https://www.businessinsider.com/the-deck-a-blockchain-credit-fintech-used-to-raise-from-transunion-2021-6?r=AU&IR=T) )*
+# ![Spring protocol](/Images/spring-protocol.jpg "Spring Protocol illustrative flow")
+
+
 ## Domain and landscape
 
 Spring Labs operations in the blockchain and cryptocurrency domain, playing a complementary role to financial institutions and lenders and a disruptive role to credit rating and consumer data agencies such as credit bureaus. 
@@ -120,3 +124,45 @@ Further, the ability to use alternative information for accessing credit worthin
 
 
 
+## Appendix - Resources
+
+### Websites
+
+1. www.springlabs.com
+
+1. https://sec.report/CIK/0001731431
+
+1. https://venturebeat.com/2018/03/27/spring-labs-raises-14-75-million-for-blockchain-based-fintech-identity-business/
+
+1. https://bitcoinexchangeguide.com/civic-identity-verification/
+
+1. equifax.com.au/personal/hometvad
+
+1. https://www.blockdata.tech/blog/general/blockchain-in-banking-top-use-cases-in-banking
+
+1. https://www.businessinsider.com/the-deck-a-blockchain-credit-fintech-used-to-raise-from-transunion-2021-6?r=AU&IR=T
+
+
+
+1. https://www.fintechfutures.com/2018/03/fintech-funding-round-up-28-march-2018/
+
+1. https://techcrunch.com/2021/05/11/why-transunion-led-blockchain-fintech-spring-labs-30m-series-b/
+
+1. https://picante.today/latest-news/2021/08/03/205515/spring-labs-addresses-major-blockchain-regulatory-hurdle-by-bringing-know-your-customer-tools-and-credit-information-to-the-defi-blockchain-ecosystem/
+
+1. https://techcrunch.com/2021/04/05/blockchain-and-taking-the-politics-out-of-tech/
+
+
+1. https://cointelegraph.com/news/blockchain-data-developer-spring-labs-research-program-gains-16-startup-members
+
+
+1. https://labusinessjournal.com/news/2021/feb/22/spring-labs-looks-reboot-credit-ratings-model/
+
+1. https://www.globenewswire.com/news-release/2021/04/21/2214102/0/en/TransUnion-and-Spring-Labs-Partner-to-Transform-the-Exchange-of-Sensitive-Data.html
+
+
+1. https://www.mckinsey.com/business-functions/risk-and-resilience/our-insights/the-coming-opportunity-in-consumer-lending
+
+
+### Podcasts
+1. Renton, Peter, Host "Podcast 238: Adam Jiwan of Spring Labs" LenditFintech present Fintech One-on-One (Podcast). 14 Mar 2020. Accessed September 27, 2021. 
